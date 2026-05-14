@@ -44,7 +44,8 @@ npm run dev
 ### What I did
 
 * Created `ecommerce_db` database
-* I have added design image in the Ecommerce-db-design folder 
+* I have added design image in the Ecommerce-db-design folder
+  ![Table Diagram](./Ecommerce-db-desing/Table-Design.png)
 * Created tables:
 
   * users
